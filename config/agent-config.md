@@ -1,0 +1,30 @@
+# NEXI CONFIGURATIE
+- [cite_start]**Goedkeuringsdrempel:** 1 founder (Jeroen of Matjeu) [cite: 75]
+- [cite_start]**Sessie-timeout:** 8 uur [cite: 125]
+- [cite_start]**Dead-man's-switch:** Max 20 acties per minuut [cite: 94]
+- **Zones:**
+  - [cite_start]Rood: Bestanden verwijderen, betalingen, e-mail versturen naar klanten 
+  - [cite_start]Oranje: Documenten aanpassen, social media posts plannen, afspraken maken 
+  - [cite_start]Groen: Research, briefings maken, concepten schrijven1~# NEXI CONFIGURATIE
+- [cite_start]**Goedkeuringsdrempel:** 1 founder (Jeroen of Matjeu) [cite: 75]
+- [cite_start]**Sessie-timeout:** 8 uur [cite: 125]
+- [cite_start]**Dead-man's-switch:** Max 20 acties per minuut [cite: 94]
+- **Zones:**
+  - [cite_start]Rood: Bestanden verwijderen, betalingen, e-mail versturen naar klanten 
+  - [cite_start]Oranje: Documenten aanpassen, social media posts plannen, afspraken maken 
+  - [cite_start]Groen: Research, briefings maken, concepten schrijven1~x# NEXI CONFIGURATIE
+- [cite_start]**Goedkeuringsdrempel:** 1 founder (Jeroen of Matjeu) [cite: 75]
+- [cite_start]**Sessie-timeout:** 8 uur [cite: 125]
+- [cite_start]**Dead-man's-switch:** Max 20 acties per minuut [cite: 94]
+- **Zones:**
+  - [cite_start]Rood: Bestanden verwijderen, betalingen, e-mail versturen naar klanten 
+  - [cite_start]Oranje: Documenten aanpassen, social media posts plannen, afspraken maken 
+  - [cite_start]Groen: Research, briefings maken, concepten schrijven1~# NEXI CONFIGURATIE
+- [cite_start]**Goedkeuringsdrempel:** 1 founder (Jeroen of Matjeu) [cite: 75]
+- [cite_start]**Sessie-timeout:** 8 uur [cite: 125]
+- [cite_start]**Dead-man's-switch:** Max 20 acties per minuut [cite: 94]
+- **Zones:**
+  - [cite_start]Rood: Bestanden verwijderen, betalingen, e-mail versturen naar klanten 
+  - [cite_start]Oranje: Documenten aanpassen, social media posts plannen, afspraken maken 
+  - [cite_start]Groen: Research, briefings maken, concepten schrijven1~6x6x^XX
+
